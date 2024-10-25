@@ -2,7 +2,7 @@
 
 ###  What I currently Do
 
-- 🎓 Third-year undergraduate student at NEDUET, majoring in software engineering.
+- 🎓 Final-year undergraduate student at NEDUET, majoring in software engineering.
 - 🌱 Currently learning React concepts.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 - 💻 Most used line of code `git commit -m "Initial Commit"`.
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-A passionate third-year undergraduate student with a keen interest in front-end development. I'm actively building my skills in the MERN stack (MongoDB, Express.js, React, Node.js) and love crafting engaging and responsive user interfaces. Despite being in my third year of studies, I've already gained hands-on experience in web development and am eager to explore more challenges. Let's connect and share the excitement of creating meaningful and innovative web solutions!
+A passionate final-year undergraduate student with a keen interest in front-end development. I'm actively building my skills in the MERN stack (MongoDB, Express.js, React, Node.js) and love crafting engaging and responsive user interfaces. With hands-on experience in web development, I'm eager to tackle new challenges. Let's connect and share the excitement of creating meaningful and innovative web solutions!
 
 ## 🚀 Languages and Tools
 
