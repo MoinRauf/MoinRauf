@@ -49,6 +49,7 @@ A passionate final-year undergraduate student with a keen interest in front-end 
 
 ### 👉 Deployment
 
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
 
 ## 🤝 Connect with me:
