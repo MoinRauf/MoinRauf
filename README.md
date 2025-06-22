@@ -2,8 +2,7 @@
 
 ###  What I currently Do
 
-- 🎓 Final-year undergraduate student at NEDUET, majoring in software engineering.
-- 🌱 Currently learning React concepts.
+- 🌱  I’m currently learning React concepts.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 - 💻 Most used line of code `git commit -m "Initial Commit"`.
 - 📫 How to reach me: moinraufc04@gmail.com
@@ -12,7 +11,7 @@
 
 ## 👋 About Me
 
-A passionate final-year undergraduate student with a keen interest in front-end development. I'm actively building my skills in the MERN stack (MongoDB, Express.js, React, Node.js) and love crafting engaging and responsive user interfaces. With hands-on experience in web development, I'm eager to tackle new challenges. Let's connect and share the excitement of creating meaningful and innovative web solutions!
+A dedicated Software Engineer with a strong interest in full stack development. I am actively developing my skills in the MERN stack (MongoDB, Express.js, React, Node.js) and have a solid foundation in building responsive Single Page Applications (SPAs) and user-focused web solutions. With hands-on experience in both front-end and back-end technologies, I am driven to take on new challenges and contribute to the development of scalable, efficient, and impactful digital products.
 
 ## 🚀 Languages and Tools
 
